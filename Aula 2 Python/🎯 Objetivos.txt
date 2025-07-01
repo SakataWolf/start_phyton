@@ -1,0 +1,6 @@
+🎯 Objetivos:
+Aprender a usar o while e for
+
+Repetir tarefas de forma automática
+
+Entender o que são listas e como usá-las
