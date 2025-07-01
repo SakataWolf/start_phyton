@@ -1,0 +1,6 @@
+🎯 Objetivos:
+Criar funções para organizar melhor seu código
+
+Reutilizar código com facilidade
+
+Entender o que são módulos e como importar14:28 05/06/202514:28 05/06/2025
