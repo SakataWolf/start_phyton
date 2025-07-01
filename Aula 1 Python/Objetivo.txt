@@ -1,0 +1,8 @@
+ 🎯 Objetivos:
+Aprender o que são variáveis e como usá-las
+
+Entender os principais tipos de dados no Python
+
+Usar o input() para pegar dados do usuário
+
+Fazer decisões com if, elif, else
